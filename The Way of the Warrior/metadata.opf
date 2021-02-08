@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd7ff4f3-44b0-40c7-94b7-7e790c42ad3c</dc:identifier>
+        <dc:title>The Way of the Warrior</dc:title>
+        <dc:creator opf:file-as="Bradford, Chris" opf:role="aut">Chris Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.41) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Orphaned by a ninja pirate attack off the coast of Japan in 1611, twelve-year-old English lad Jack Fletcher is determined to prove himself, despite the bullying of fellow students, when the legendary sword master who rescued him begins training him as a samurai warrior.&lt;/p&gt;</dc:description>
+        <dc:publisher>THORNDIKE PR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781410443298</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <meta content="{&quot;Chris Bradford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Young Samurai" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-03-20T02:27:15+00:00" name="calibre:timestamp"/>
+        <meta content="Way of the Warrior, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

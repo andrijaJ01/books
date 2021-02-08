@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83f2595a-c852-44e3-ab17-1cf8c0aa5c50</dc:identifier>
+        <dc:title>The Ring of Fire</dc:title>
+        <dc:creator opf:file-as="Bradford, Chris" opf:role="aut">Chris Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.41) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-03T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;JACK FLETCHER FACES HIS TOUGHEST CHALLENGE YET.&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;After a snowstorm forces him to take shelter, Jack comes across a village in need of protection from raiding mountain bandits. Torn between moving on or helping, Jack is persuaded to stay and fight the villagers' cause.&lt;/p&gt;&lt;p&gt;But Jack is the first and only samurai to do so. Now he must enlist other warriors to the villagers' aid before the bandits return to steal their harvest. No easy task when the reward is so little and he is a foreigner. If only he had his friends to call on...&lt;/p&gt;&lt;p&gt;Using the Ring of Fire, can Jack overpower the bandits and win?&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Chris Bradford has trained in karate, kickboxing and samurai swordsmanship. He earned his black belt in Zen Kyo Shin Taijutsu, the secret fighting art of the ninja. Before writing the &lt;em&gt;Young Samurai&lt;/em&gt; series, he was a professional musician and songwriter and has performed for HRH Queen Elizabeth II. &lt;/p&gt;&lt;p&gt;You can learn more about Chris Bradford and his books at www.youngsamurai.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puffin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141332550</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <meta content="{&quot;Chris Bradford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Young Samurai" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-03-20T02:27:15+00:00" name="calibre:timestamp"/>
+        <meta content="Ring of Fire, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb09727a-ca7a-4f27-a6d3-142e0b0d7b42</dc:identifier>
+        <dc:title>The Way of the Dragon</dc:title>
+        <dc:creator opf:file-as="Bradford, Chris" opf:role="aut">Chris Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.41) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;June 1613. &lt;strong&gt;&lt;em&gt;*Japan&lt;/em&gt;&lt;/strong&gt;* is threatened with war and Jack is facing his greatest battle yet.&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Samurai are taking sides and, as the blood begins to flow, Jack's warrior training is put to the ultimate test. His survival - and that of his friends - depends upon him mastering the Two Heavens, the secret sword technique of the legendary samurai Masamoto Takeshi. But first Jack must recover his father's prize possession from the deadly ninja Dragon Eye. &lt;/p&gt;&lt;p&gt;Can Jack defeat his ruthless enemy? Or will the ninja complete his mission to kill the young&lt;em&gt; &lt;/em&gt;samurai . . .&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Chris Bradford has earned his black belt in &lt;em&gt;taijutsu&lt;/em&gt;, the secret fighting art of the ninja. He has also trained in judo, karate, kickboxing and samurai swordmanship. Before writing the Young Samurai series, Chris was a professional musician and songwriter. He lives in the South Downs with his wife and two cats called Tigger and Rhubarb. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puffin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141324326</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <meta content="{&quot;Chris Bradford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Young Samurai" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-03-20T02:27:16+00:00" name="calibre:timestamp"/>
+        <meta content="Way of the Dragon, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

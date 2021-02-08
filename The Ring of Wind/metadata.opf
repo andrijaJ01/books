@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2825b2e-4366-4165-8109-a650c42da054</dc:identifier>
+        <dc:title>The Ring of Wind</dc:title>
+        <dc:creator opf:file-as="Bradford, Chris" opf:role="aut">Chris Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.41) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;JACK FLETCHER IS BATTLING THE HIGH SEAS&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;Ambushed by the Shogun's samurai, Jack and his friends have only one hope of escape - the Seto Sea. But with ferocious storms, man-eating sharks and ninja pirates at every turn, their chosen route is fraught with danger. &lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;A treacherous crew only adds to their problems as they flee south from a ruthless samurai sea lord. Unless Jack can harness the Ring of Wind, he and his friends are destined for a watery grave . . .&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Book 7 in the blockbuster Young Samurai series by Chris Bradford. Visit www.youngsamurai.com for competitions and FREE teacher resources.&lt;/p&gt;&lt;p&gt;'A fantastic adventure that floors the reader on page one and keeps them there until the end' - Eoin Colfer&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Chris Bradford has trained in karate, kickboxing and samurai swordsmanship. He earned his black belt in Zen Kyo Shin Taijutsu, the secret fighting art of the ninja. Before writing the Young Samurai series, he was a professional musician and songwriter and has performed for HRH Queen Elizabeth II. You can learn more about Chris Bradford and his books at www.youngsamurai.com. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puffin</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0071MZIK2</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NCsR5blW2j8C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141970998</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Chris Bradford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Young Samurai" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2012-03-20T02:25:55+00:00" name="calibre:timestamp"/>
+        <meta content="Ring of Wind, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

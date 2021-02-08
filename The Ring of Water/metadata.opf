@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0db2ab73-94aa-4336-82b5-c99c01e6921a</dc:identifier>
+        <dc:title>The Ring of Water</dc:title>
+        <dc:creator opf:file-as="Bradford, Chris" opf:role="aut">Chris Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.41) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jack Fletcher has been left for dead.&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Bruised and battered, Jack Fletcher wakes up in a roadside inn wrapped only in a dirty kimono. He has lost everything, including his memory of what happened.&lt;/p&gt;&lt;p&gt;Determined to discover the truth, Jack goes on a quest to retrieve his belongings - his precious swords, his friend Akiko's black pearl and most important of all, his father's prize possession. Relying on his samurai &lt;em&gt;and&lt;/em&gt; ninja training, Jack realises The Ring of Water is the key to his survival.&lt;/p&gt;&lt;p&gt;But with only a washed up Ronin - a masterless samurai - for help, what will Jack manage to find? What will he lose? And what will he have to sacrifice?&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Chris Bradford has trained in karate, kickboxing and samurai swordsmanship. He earned his black belt in Zen Kyo Shin Taijutsu, the secret fighting art of the ninja. Before writing the &lt;em&gt;Young Samurai&lt;/em&gt; series, he was a professional musician and songwriter and has performed for HRH Queen Elizabeth II. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puffin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141332543</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <meta content="{&quot;Chris Bradford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Young Samurai" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-03-20T02:27:15+00:00" name="calibre:timestamp"/>
+        <meta content="Ring of Water, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
